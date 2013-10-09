@@ -9,6 +9,7 @@ import org.apache.commons.lang3.builder.ToStringBuilder;
  * @since 1.1.1
  */
 public enum TbootstrapPropertyName {
+
     AUSTRALIA("Australia"),
     UNITED_STATES("United States"),
     GERMANY("Germany"),
